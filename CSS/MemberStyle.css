@@ -1,0 +1,114 @@
+footer ul li {
+    margin-bottom: 10px;
+  }
+  
+  footer ul li a:hover{
+    color:#fff;
+    padding-left: 10px;
+  }
+  
+  footer ul li a{
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 300;
+    display: block;
+  }
+  
+  header {
+    font-style:inherit;
+    background-color: #152b2c;
+    height: 80px;
+    color: rgb(234, 232, 229);
+    padding-top: 1px;
+    margin: 0 auto;
+    opacity: 0.5;
+  }
+
+  footer {
+    background-color: black;
+    color: #ffffff;
+    width:100%;
+    position:relative;
+    bottom:0;
+    width: 1600px;
+    padding: 70px 0;
+  }
+
+  main h2 {
+    color: #a9a5a5;
+  }
+
+  button {
+    border-radius: 5px;
+    width: 200px;
+    border-style: hidden;
+    font-size: 16px;
+    color: #fff;    
+    background-color:rgb(0, 0, 0);
+  }
+
+  .row{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .column{
+    width: 30%;
+    padding: 0 15px;
+  }
+  
+  .column h2{
+    font-size: 18px;
+    color: #fff;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    position: relative;
+  }
+
+  ul{
+    list-style: none;
+  }
+
+  .container{
+    max-width: 1200px;
+    margin: auto;
+  }
+
+  .info-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.info-table th, .info-table td {
+    padding: 12px 15px;
+}
+
+.info-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.info-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.info-table tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+
+body {
+  background-color: #474f4d;
+}
+
+table{
+  background-color: #a9a5a5;
+}
+
+#link {
+  background-color: rgb(66, 52, 52);
+  color: black;
+  height: 80px;
+  width: 200px;
+}

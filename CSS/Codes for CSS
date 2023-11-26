@@ -1,0 +1,16 @@
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
+#main-content {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+.container p {
+  color: #333;
+  font-size: 16px;
+  line-height: 1.5;
+}
